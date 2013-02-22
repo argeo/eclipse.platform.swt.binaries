@@ -4,7 +4,7 @@
 	<property name="swt.ws" value="win32" />
 	<property name="swt.os" value="win32" />
 	<property name="swt.arch" value="x86" />
-	<property name="targets" value="x86 make_cef3_subprocess install"/>
+	<property name="targets" value="x86 make_cef3 install"/>
 	
 	<!-- These properties are used by eclipse when exporting as Deployable plugin and fragments -->
 	<property name="version.suffix" value="3.101.0" />
